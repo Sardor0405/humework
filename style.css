@@ -1,0 +1,23 @@
+.h1{
+    background-color: rgb(255, 255, 255);
+    
+    width: 700px;
+
+
+    
+}
+.h2{
+    border-style: dashed;
+    border-style: solid;
+    border-color: red;
+    border: 2px;
+    border-bottom-left-radius: 80px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 60px;
+    border-bottom-right-radius: 40px;
+    width: 300px;
+
+    background-color: red;
+    text-align: center;
+}
+
