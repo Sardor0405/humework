@@ -1,23 +1,97 @@
+body{
+    background-color: blueviolet;
+
+}
 .h1{
-    background-color: rgb(255, 255, 255);
-    
-    width: 700px;
-
-
-    
+    color: red;
 }
 .h2{
-    border-style: dashed;
-    border-style: solid;
-    border-color: red;
-    border: 2px;
-    border-bottom-left-radius: 80px;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 60px;
-    border-bottom-right-radius: 40px;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
     width: 300px;
-
-    background-color: red;
     text-align: center;
 }
-
+.h3{
+    border: 2px solid red;
+    background-color:rgb(9, 5, 44);
+    width: 70px;
+    text-align: center;
+    
+}
+.h4{
+    color: rgb(9, 5, 44);
+}
+.h5{
+    border: 2px solid red;
+    background-color: rgb(9, 5, 44);
+    width: 70px;
+    text-align: center;
+    border-radius: 20px;
+}
+.h6{
+    color: rgb(9, 5, 44);
+}
+.h8{
+    border: 2px solid red;
+    background-color: rgb(9, 5, 44);
+    width: 70px;
+    text-align: center;
+    border-radius: 50px;
+}
+.h7{
+    color: rgb(9, 5, 44);
+}
+.h9{
+    color: rgb(9, 5, 44);
+}
+.a1{
+    border: 2px solid red;
+    background-color: rgb(9, 5, 44);
+    width: 70px;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.a2{
+    border: 2px solid red;
+    background-color: rgb(9, 5, 44);
+    width: 70px;
+    text-align: center;
+    border-top-left-radius: 80px;
+    
+}
+.a3{
+    color: rgb(9, 5, 44);
+}
+.a4{
+    border: 2px solid red;
+    background-color: rgb(9, 5, 44);
+    width: 70px;
+    text-align: center;
+    border-radius: 10px;
+}
+.a5{
+    color: rgb(9, 5, 44);
+}
+.a6{
+    border: 2px solid red;
+    background-color: rgb(9, 5, 44);
+    width: 70px;
+    text-align: center;
+    border-top-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+}
+.a7{
+    color: rgb(9, 5, 44);
+}
+.a8{
+    border: 2px solid red;
+    background-color: rgb(9, 5, 44);
+    width: 70px;
+    text-align: center;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+.a9{
+    color: rgb(9, 5, 44);
+}
